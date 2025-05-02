@@ -19,6 +19,7 @@ The API workflow is defined in the following image:
 ![alt text](image.png "Title")
 
 #### **Running the task**
+   - `kubectl create ns mysql-test`
    - `go run main.go`
 
 
